@@ -1,0 +1,85 @@
+[33mcommit c9ad4cb36d82701fc61f8f2418eeea49188d79be[m[33m ([m[1;36mHEAD -> [m[1;32mtest_1[m[33m, [m[1;31morigin/test_1[m[33m)[m
+Author: Erik Nielsen <erin@tdc.dk>
+Date:   Sat Sep 28 08:43:14 2019 +0200
+
+    test 11
+
+[33mcommit e49dd71ef0c3aa0e7d3edbd5ab132197d915ce7b[m
+Author: Erik Nielsen <erin@tdc.dk>
+Date:   Fri Sep 27 12:57:34 2019 +0200
+
+    test 10
+
+[33mcommit a409c88036ca9b270943006ba754c40c22c27ed0[m
+Author: Erik Nielsen <erin@tdc.dk>
+Date:   Fri Sep 27 11:53:31 2019 +0200
+
+    test9 added
+
+[33mcommit c42b5979f4a092bb497c79a800e8c523f19bf270[m
+Author: Erik Nielsen <erin@tdc.dk>
+Date:   Fri Sep 27 11:52:56 2019 +0200
+
+    test8 added
+
+[33mcommit 163312e8ebf02f8d91fc528e3948066d3f11fea7[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Erik Nielsen <erin@tdc.dk>
+Date:   Mon Sep 23 12:05:52 2019 +0200
+
+    test6 added
+
+[33mcommit b9eff5c9b5aefd601127c173793ac2ed57197ac9[m
+Author: Erik Nielsen <erin@tdc.dk>
+Date:   Mon Sep 23 12:05:16 2019 +0200
+
+    test5 added
+
+[33mcommit 9a9c8e9a1f4fcf8adb85279febef966f8be6fb4e[m
+Merge: cb8c92f ef17f39
+Author: Erik Nielsen <erin@tdc.dk>
+Date:   Mon Sep 23 11:47:47 2019 +0200
+
+    Merge branch 'master' of https://github.com/a59607/hello-world
+
+[33mcommit cb8c92f15592562605a4bff31bc25372396a2995[m
+Author: Erik Nielsen <erin@tdc.dk>
+Date:   Mon Sep 23 11:46:16 2019 +0200
+
+    test4 added
+
+[33mcommit ef17f396297b7716289008943c0524f6c5ea6732[m
+Author: Erik Nielsen <47357297+a59607@users.noreply.github.com>
+Date:   Fri May 31 18:44:44 2019 +0200
+
+    Create db.json
+    
+    json settings
+
+[33mcommit 3aedfc9999ed28b3f984136c2ff2dff96f15198f[m
+Author: Erik Nielsen <erin@tdc.dk>
+Date:   Wed Feb 6 14:46:57 2019 +0100
+
+    test3 added in README.md
+
+[33mcommit 5785080276da5ccba5da32bcebfb993321e809f0[m
+Merge: 3586c75 444cdef
+Author: Erik Nielsen <47357297+a59607@users.noreply.github.com>
+Date:   Wed Feb 6 09:57:49 2019 +0100
+
+    Merge pull request #1 from a59607/readme-edits
+    
+    PR for update README.md
+
+[33mcommit 444cdef456dd83f0d408897bcc15cfc7fd8c152d[m[33m ([m[1;31morigin/readme-edits[m[33m)[m
+Author: Erik Nielsen <47357297+a59607@users.noreply.github.com>
+Date:   Wed Feb 6 09:42:57 2019 +0100
+
+    Update README.md
+    
+    README file updated
+
+[33mcommit 3586c75964854905f08901779023678e57295e3c[m
+Author: Erik Nielsen <47357297+a59607@users.noreply.github.com>
+Date:   Wed Feb 6 09:28:50 2019 +0100
+
+    Initial commit
