@@ -1,3 +1,4 @@
+[
 {
 "id": "12345",
 "identity": {
@@ -35,3 +36,4 @@
 { "phoneNumber": "33333333", "isAccepted": true }
 }
 }
+]
