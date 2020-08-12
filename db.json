@@ -1,0 +1,39 @@
+[
+{
+"id": "12345",
+"identity": {
+"name":
+
+{ "firstname": "Peter", "lastname": "Larsen" }
+,
+"address":
+
+{ "street": "Fabriksvej", "streetNumber": "8", "city": "Sæby", "zipCode": "9000", "streetCode": "??", "floor": "1", "side": "TH", "houseLetter": "B", "apartmentNumber": "412", "municipalityCode": "???" }
+},
+"communication":
+
+{ "generalEmail": "peterlarsengeneralEmail@gmail.com" }
+,
+"permissions": {
+"operationalEmail":
+
+{ "emailAddress": "peterlarsenoperationalemail@gmail.com", "isAccepted": true }
+,
+"operationalSms":
+
+{ "phoneNumber": "11111111", "isAccepted": true }
+,
+"marketingEmail":
+
+{ "emailAddress": "peterlarsenmarketingemail@gmail.com", "isAccepted": true }
+,
+"marketingSms":
+
+{ "phoneNumber": "22222222", "isAccepted": true }
+,
+"marketingCall":
+
+{ "phoneNumber": "33333333", "isAccepted": true }
+}
+}
+]
