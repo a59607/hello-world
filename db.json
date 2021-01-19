@@ -64,6 +64,23 @@
       "postId": 1
     }
   ],
+  "customermarketing": [
+    {
+      "email": {
+        "emailAddress": "peterlarsenmarketingemail@gmail.com",
+        "isAccepted": true
+      },
+      "call": {
+        "phoneNumber": "00000000",
+        "isAccepted": false
+      },
+      "sms": {
+        "phoneNumber": "55555555",
+        "isAccepted": false
+      },
+      "id": "2732-06-20-12.32.52.101154"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
