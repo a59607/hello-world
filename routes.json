@@ -1,0 +1,8 @@
+{
+"/customers/:id/youseepermissions/operational":"/customers/:id",
+"/customers/:id/youseepermissions/marketing":"/customers/:id",
+"/customers/:id/communication/generalemail":"/customers/:id",
+"/customeroperational/:id/youseepermissions/operational":"/customeroperational/:id",
+"/customermarketing/:id/youseepermissions/marketing":"/customermarketing/:id",
+"/secure/agentstatus/:id":"/CIAgentStatus/:id"
+}
